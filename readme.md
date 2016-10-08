@@ -1,4 +1,6 @@
-# Lily of the Valley Text Extraction Library 2016
+# Lily of the Valley
+
+![logo](Logo.png)
 
 Library for converting various file formats to plain text. The following formats are supported:
 
